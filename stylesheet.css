@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Open Sans', Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h2 {
+	font-family: 'Open Sans', Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
+
+ul, p, table {
+    font-family: 'PT Serif', Georgia, "Times New Roman", Times, serif;
+}
+
+.update {
+  padding: 10px;
+  background: hsla(0, 100%, 100%, 0.05);
+  box-shadow: 0 0 20px #000;
+  line-height: 1.5em;
+}
+
+body {
+}
